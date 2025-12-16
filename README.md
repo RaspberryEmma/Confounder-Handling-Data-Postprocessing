@@ -1,4 +1,4 @@
-# Confounder-Handling-Data-Preprocessing
+# Confounder-Handling-Data-Postprocessing
 Data preprocessing for the simulation study conducted in chapter 2 of my PhD Thesis.
 
 The code corresponding to the simulation itself can be found here: https://github.com/RaspberryEmma/Confounder-Handling-Sim-Study.
